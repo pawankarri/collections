@@ -2,7 +2,7 @@ package collections;
 
 import java.util.*;
 import java.util.Map.Entry;
-
+//collections -> map topic
 public class Mapp {
 public static void main(String[] args) {
 	Map<Integer,String> m=new HashMap();
